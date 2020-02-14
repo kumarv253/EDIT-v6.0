@@ -2,8 +2,10 @@ lab event
 nfs
 fi
 blind typing
+super mario
 
 class event 
 word buzz
 sudoko
 ludo
+snake and ladder
