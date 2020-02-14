@@ -3,9 +3,11 @@ nfs
 fi
 blind typing
 super mario
+logo degign
 
 class event 
 word buzz
 sudoko
 ludo
 snake and ladder
+follow the path
